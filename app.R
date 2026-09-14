@@ -11,7 +11,6 @@ library(shiny)
 library(plotly)
 library(DT)
 library(dplyr)
-library(rsconnect)
 
 # ============================================================
 # DATA
